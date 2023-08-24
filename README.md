@@ -104,13 +104,30 @@
     <br />
     </td>
     <td align="center">
-    <b>Google Drive</b><br>
-    <b> 📹 코드 및 RAW DATA 업로드 </b>
+    <a href=''>
+    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/76109cbe-7af1-4494-ae52-3abbdd09fdf2" width="150px;" alt="Google Meet"/>
+    <br />
+    <sub>
+    <b>Google Meet</b><br>
+    <b>✏️ 비대면 회의 진행</b>
     </sub>
     </a>
     <br />
+    </td>    
+    <td align="center">
+    <a href='https://drive.google.com/drive/folders/1fqLqoJABIs36cEv3YNcbOdDSKvf0XJeG'>
+    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/d657cc6e-e8a1-4c48-9988-3ba3cf8f6c63" width="150px;" alt="Google Drive"/>
+    <br />
+    <sub>
+    <b>Google Drive</b><br>
+    <b> 📹 코드 및 RAW DATA, 전처리 DATA 업로드 </b>
+    </sub>
+    </a>
+    <br />
+    </td>
   </tr>
 </table>
+
   
 #### [Notion 페이지 링크](https://www.notion.so/2023-11-c7e02662cfd0418cbe2e93c3b926cf5e?pvs=4) : 전체 프로젝트 R&R 및 회의록 관리 페이지입니다.
 #### [GoogleDrive 링크](https://drive.google.com/drive/folders/1fqLqoJABIs36cEv3YNcbOdDSKvf0XJeG) : 11조 코드와 RAW DATA등 모든 데이터가 정리된 드라이브 페이지입니다. 
