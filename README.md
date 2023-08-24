@@ -7,7 +7,7 @@
 
 `2023년도 데이터청년캠퍼스 서울과학기술대학교 11팀`의 깃허브 페이지입니다!
 
-저희는 서울시에서의 구별로 갖는 한부모들의 특징을 중심으로 *PCA Analysis, ESDA 분석을 통해 취약 권역을 선정하고, 해당 권역을 대상으로 한 정책 제안* 을 중심으로 프로젝트를 진행하였습니다.
+저희는 서울시에서의 구별로 갖는 한부모들의 특징을 중심으로 *PCA Analysis, ESDA 분석을 통해 취약 권역을 선정하고, 해당 권역을 대상으로 한 정책을 제안* 하는 것을 중심으로 프로젝트를 진행하였습니다.
 
 ## 🧑‍🤝‍🧑 팀원
 7조 팀원들을 소개합니다( ˃ᴗ˂ )
@@ -18,8 +18,8 @@
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/selfrescue">
-    <img src="https://github.com/selfrescue.png" width="150px;" alt="연주"/>
+    <a href="https://github.com/yndo_o">
+    <img src="https://github.com/yndo_o.png" width="150px;" alt="연주"/>
     <br />
     <sub>
     <b>오연주</b><br>
@@ -38,39 +38,39 @@
     </a>
     <td align="center">
     <a href="https://github.com/dony1220">
-    <img src="https://github.com/dony1220.png" width="150px;" alt="도현"/>
+    <img src="https://github.com/dony1220.png" width="150px;" alt="정수"/>
     <br />
     <sub>
-    <b></b><br>
-    <b>🌟 모델링</b>
+    <b>윤정수</b><br>
+    <b> 💻 PPT 제작</b>
     </sub>
     </a>
     <br />
     </td>
     <td align="center">
-    <a href="https://github.com/InKyungWoo">
-    <img src="https://github.com/InKyungWoo.png" width="150px;" alt="인경"/>
+    <a href="https://github.com/dongamma">
+    <img src="https://github.com/dongamma.png" width="150px;" alt="동현"/>
     <br />
     <sub>
-    <b>Inkyung Woo</b><br>
-    <b>🌟 모델링</b>
+    <b>이동현</b><br>
+    <b>📈 PCA 분석, 민원 키워드 워드클라우드 생성</b>
     <td align="center">
     <a href="https://github.com/selfrescue">
-    <img src="https://github.com/selfrescue.png" width="150px;" alt="혜연"/>
+    <img src="https://github.com/selfrescue.png" width="150px;" alt="현우"/>
     <br />
     <sub>
-    <b>유혜연</b><br>
-    <b> :bulb: PM, 데이터 수집 및 가공</b>
+    <b>신현우</b><br>
+    <b> :mag: ESDA 분석, 민원 키워드 워드클라우드 생성</b>
     </sub>
     </a>
     <br />
     <td align="center">
-    <a href="https://github.com/selfrescue">
-    <img src="https://github.com/selfrescue.png" width="150px;" alt="혜연"/>
+    <a href="https://github.com/seokho">
+    <img src="https://github.com/seokho.png" width="150px;" alt="석호"/>
     <br />
     <sub>
-    <b>유혜연</b><br>
-    <b> :bulb: PM, 데이터 수집 및 가공</b>
+    <b>홍석호</b><br>
+    <b> :cloud: 정책 조사, 민원 키워드 워드클라우드 생성</b>
     </sub>
     </a>
     <br />
@@ -92,29 +92,18 @@
     <br />
     <sub>
     <b>Google Colab</b><br>
-    <b> 💻 모델링 설계 </b>
+    <b> 💻 folium 시각화, 예산 데이터 전처리, PCA 분석, 워드클라우드 생성 </b>
     </sub>
     </a>
     <br />
     </td>
     <td align='center'>
-    <a href='https://spiral-moose-c33.notion.site/7e97e0c8815d4acf815ffa0c885348a4?pvs=4'>
+    <a href='https://www.notion.so/2023-11-c7e02662cfd0418cbe2e93c3b926cf5e?pvs=4'>
     <img src='https://github.com/selfrescue/selfrescue/assets/130124454/189b7c67-88a0-49c6-9682-1aecef0533e2' width="150px;" alt="Notion"/>
     <br />
     <sub>
     <b>Notion</b><br>
     <b> 📆 일정 관리, 역할 분배, 회의록 공유</b>
-    </sub>
-    </a>
-    <br />
-    </td>
-    <td align="center">
-    <a href='https://discord.gg/KJWkZJg4'>
-    <img src='https://github.com/selfrescue/selfrescue/assets/130124454/cf370aee-98cc-4546-a1b3-a68884994a20' width="150px;" alt="Discord"/>
-    <br />
-    <sub>
-    <b>Discord</b><br>
-    <b> ✏️ 스터디 및 중간 미팅 진행</b>
     </sub>
     </a>
     <br />
@@ -131,12 +120,12 @@
     <br />
     </td>    
     <td align="center">
-    <a href=''>
+    <a href='https://drive.google.com/drive/folders/1fqLqoJABIs36cEv3YNcbOdDSKvf0XJeG'>
     <img src="https://github.com/selfrescue/selfrescue/assets/130124454/d657cc6e-e8a1-4c48-9988-3ba3cf8f6c63" width="150px;" alt="Google Drive"/>
     <br />
     <sub>
     <b>Google Drive</b><br>
-    <b> 📹 구현 영상 및 모델 파일 업로드 </b>
+    <b> 📹 코드 및 RAW DATA 업로드 </b>
     </sub>
     </a>
     <br />
@@ -144,9 +133,8 @@
   </tr>
 </table>
   
-#### [Notion 페이지 링크](https://spiral-moose-c33.notion.site/7e97e0c8815d4acf815ffa0c885348a4?pvs=4) : 전체 프로젝트 R&R 및 회의록 관리 페이지입니다.
-#### [GoogleDrive 링크](https://drive.google.com/drive/folders/1BYTg3gTPLE2lTy0RrNSjG9CHcRoApqJN?usp=drive_link) : 모델의 크기가 커 깃허브에 업로드가 불가하기에 설계한 모델은 깃허브가 아닌 드라이브에 업로드하였습니다. 
+#### [Notion 페이지 링크](https://www.notion.so/2023-11-c7e02662cfd0418cbe2e93c3b926cf5e?pvs=4) : 전체 프로젝트 R&R 및 회의록 관리 페이지입니다.
+#### [GoogleDrive 링크](https://drive.google.com/drive/folders/1fqLqoJABIs36cEv3YNcbOdDSKvf0XJeG) : 11조 코드와 RAW DATA등 모든 데이터가 정리된 드라이브 페이지입니다. 
 
-## 📝 모델 구조
-![제목을 입력해주세요_-004](https://github.com/jongsulteam7/ttproject/assets/130124454/9b82aee0-54e2-48ce-98b4-9aad679f68a9)
-
+## 📝 프로젝트 시각화 예시
+PPT 내용 캡쳐 해 추가 예정
