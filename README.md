@@ -3,8 +3,10 @@
 ## 📃 소개
 <p align="center">
   <img width="856" alt="스크린샷 2023-08-24 오후 12 48 57" src="https://github.com/stechhbm/stech11/assets/130124454/efb1b3e6-a28d-41b0-b2d0-dea226c1bae4">
+
 `2023년도 데이터청년캠퍼스 서울과학기술대학교 11팀`의 깃허브 페이지입니다!
 저희는 서울시에서의 구별로 갖는 한부모들의 특징을 중심으로 *PCA Analysis, ESDA 분석을 통해 취약 권역을 선정하고, 해당 권역을 대상으로 한 정책을 제안* 하는 것을 중심으로 프로젝트를 진행하였습니다.
+
 ## 🧑‍🤝‍🧑 팀원
 7조 팀원들을 소개합니다( ˃ᴗ˂ )
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -13,13 +15,12 @@
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/selfrescue">
-    <img src="https://github.com/selfrescue.png" width="150px;" alt="연주"/>
-    <br />
-    <sub>
-    <b>오연주</b><br>
     <a href="https://github.com/yndo_o">
     <img src="https://github.com/yndo_o.png" width="150px;" alt="연주"/>
+    <br />
+    <sub> <b>오연주</b><br>
+    <b> :bar_chart: 데이터 수집 및 전처리, folium 시각화</b>
+    </sub>
     </a>
     <br />
     <td align="center">
@@ -33,29 +34,24 @@
     </a>
     <td align="center">
     <a href="https://github.com/dony1220">
-    <img src="https://github.com/dony1220.png" width="150px;" alt="도현"/>
-    <br />
-    <sub>
-    <b></b><br>
-    <b>🌟 모델링</b>    <img src="https://github.com/dony1220.png" width="150px;" alt="정수"/>
+    <img src="https://github.com/dony1220.png" width="150px;" alt="정수"/>
     <br />
     <sub>
     <b>윤정수</b><br>
     <b> 💻 PPT 제작</b>
-    <a href="https://github.com/InKyungWoo">
-    <img src="https://github.com/InKyungWoo.png" width="150px;" alt="인경"/>
-    <br />
-    <sub>
-    <b>Inkyung Woo</b><br>
-    <b>🌟 모델링</b><a href="https://github.com/dongamma">
-    <img src="https://github.com/dongamma.png" width="150px;" alt="동현"/>
-    <img src="https://github.com/selfrescue.png" width="150px;" alt="혜연"/>
-    <br />
-    <sub>    <b>이동현</b><br>
-    <b>📈 PCA 분석, 민원 키워드 워드클라우드 생성</b>
     </sub>
     </a>
     <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/dongamma">
+    <img src="https://github.com/dongamma.png" width="150px;" alt="동현"/>
+    <br />
+    <sub>
+    <b>이동현</b><br>
+    <b>📈 PCA 분석, 민원 키워드 워드클라우드 생성</b>
+    <td align="center">
+    <a href="https://github.com/selfrescue">
     <img src="https://github.com/selfrescue.png" width="150px;" alt="현우"/>
     <br />
     <sub>
@@ -74,6 +70,20 @@
     </sub>
     </a>
     <br />
+    </sub>
+    </a>
+    <br />
+    </td>    
+    <br />
+    </td>    
+  </tr>
+</table>
+## 🧰 툴
+<table>
+  <tr>
+    <td align="center">
+    <a href=''>
+    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/3ae060ca-8f5f-4ca7-a880-3168cb5deaec" width="150px;" alt='Google Colab'/>
     <br />
     <sub>
     <b>Google Colab</b><br>
@@ -87,19 +97,13 @@
     <img src='https://github.com/selfrescue/selfrescue/assets/130124454/189b7c67-88a0-49c6-9682-1aecef0533e2' width="150px;" alt="Notion"/>
     <br />
     <sub>
+    <b>Notion</b><br>
+    <b> 📆 일정 관리, 역할 분배, 회의록 공유</b>
+    </sub>
+    </a>
     <br />
     </td>
     <td align="center">
-    <a href=''>
-    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/76109cbe-7af1-4494-ae52-3abbdd09fdf2" width="150px;" alt="Google Meet"/>
-    <br />
-    <br />
-    </td>    
-    <td align="center">
-    <a href='https://drive.google.com/drive/folders/1fqLqoJABIs36cEv3YNcbOdDSKvf0XJeG'>
-    <img src="https://github.com/selfrescue/selfrescue/assets/130124454/d657cc6e-e8a1-4c48-9988-3ba3cf8f6c63" width="150px;" alt="Google Drive"/>
-    <br />
-    <sub>
     <b>Google Drive</b><br>
     <b> 📹 코드 및 RAW DATA 업로드 </b>
     </sub>
