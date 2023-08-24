@@ -9,7 +9,7 @@
 저희는 서울시에서의 구별로 갖는 한부모들의 특징을 중심으로 *PCA Analysis, ESDA 분석을 통해 취약 권역을 선정하고, 해당 권역을 대상으로 한 정책을 제안* 하는 것을 중심으로 프로젝트를 진행하였습니다.
 
 ## 🧑‍🤝‍🧑 팀원
-7조 팀원들을 소개합니다( ˃ᴗ˂ )
+11조 팀원들을 소개합니다( ˃ᴗ˂ )
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
