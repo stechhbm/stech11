@@ -1,8 +1,7 @@
 # 2023년도 데이터청년캠퍼스 서울과학기술대학교 11팀
-
+`https://github.com/stechhbm/stech11`
 
 ## 📃 소개
-`https://github.com/stechhbm/stech11`
 
 <p align="center">
   <img width="856" alt="스크린샷 2023-08-24 오후 12 48 57" src="https://github.com/stechhbm/stech11/assets/130124454/efb1b3e6-a28d-41b0-b2d0-dea226c1bae4">
