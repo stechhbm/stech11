@@ -4,7 +4,7 @@
 ## 📃 소개
 
 <p align="center">
-  <img width="856" alt="스크린샷 2023-08-24 오후 12 48 57" src="https://github.com/stechhbm/stech11/assets/130124454/efb1b3e6-a28d-41b0-b2d0-dea226c1bae4">
+  <img width="1249" alt="스크린샷 2023-08-25 오후 1 28 16" src="https://github.com/stechhbm/stech11/assets/130124454/319af359-20b5-44a8-a2fc-8ed53c3aa54e">
 
 `2023년도 데이터청년캠퍼스 서울과학기술대학교 11팀`의 깃허브 페이지입니다!
 저희는 서울시에서의 구별로 갖는 한부모들의 특징을 중심으로 *PCA Analysis, ESDA 분석을 통해 취약 권역을 선정하고, 해당 권역을 대상으로 한 정책을 제안* 하는 것을 중심으로 프로젝트를 진행하였습니다.
@@ -80,6 +80,7 @@
     </td>    
   </tr>
 </table>
+
 ## 🧰 툴
 <table>
   <tr>
