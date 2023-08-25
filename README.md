@@ -1,6 +1,9 @@
 # 2023년도 데이터청년캠퍼스 서울과학기술대학교 11팀
-- - -
+
+
 ## 📃 소개
+`https://github.com/stechhbm/stech11`
+
 <p align="center">
   <img width="856" alt="스크린샷 2023-08-24 오후 12 48 57" src="https://github.com/stechhbm/stech11/assets/130124454/efb1b3e6-a28d-41b0-b2d0-dea226c1bae4">
 
@@ -8,15 +11,15 @@
 저희는 서울시에서의 구별로 갖는 한부모들의 특징을 중심으로 *PCA Analysis, ESDA 분석을 통해 취약 권역을 선정하고, 해당 권역을 대상으로 한 정책을 제안* 하는 것을 중심으로 프로젝트를 진행하였습니다.
 
 ## 🧑‍🤝‍🧑 팀원
-7조 팀원들을 소개합니다( ˃ᴗ˂ )
+11조 팀원들을 소개합니다( ˃ᴗ˂ )
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/yndo_o">
-    <img src="https://github.com/yndo_o.png" width="150px;" alt="연주"/>
+    <a href="https://github.com/OhYounjoo">
+    <img src="https://github.com/OhYounjoo.png" width="150px;" alt="연주"/>
     <br />
     <sub> <b>오연주</b><br>
     <b> :bar_chart: 데이터 수집 및 전처리, folium 시각화</b>
@@ -51,8 +54,8 @@
     <b>이동현</b><br>
     <b>📈 PCA 분석, 민원 키워드 워드클라우드 생성</b>
     <td align="center">
-    <a href="https://github.com/selfrescue">
-    <img src="https://github.com/selfrescue.png" width="150px;" alt="현우"/>
+    <a href="https://github.com/ST-Sinu">
+    <img src="https://github.com/ST-Sinu.png" width="150px;" alt="현우"/>
     <br />
     <sub>
     <b>신현우</b><br>
@@ -131,5 +134,3 @@
   
 #### [Notion 페이지 링크](https://www.notion.so/2023-11-c7e02662cfd0418cbe2e93c3b926cf5e?pvs=4) : 전체 프로젝트 R&R 및 회의록 관리 페이지입니다.
 #### [GoogleDrive 링크](https://drive.google.com/drive/folders/1fqLqoJABIs36cEv3YNcbOdDSKvf0XJeG) : 11조 코드와 RAW DATA등 모든 데이터가 정리된 드라이브 페이지입니다. 
-## 📝 프로젝트 시각화 예시
-PPT 내용 캡쳐 해 추가 예정
